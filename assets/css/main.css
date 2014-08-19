@@ -1,0 +1,25 @@
+<!-- CSS goes in the document HEAD or added to your external stylesheet -->
+<style type="text/css">
+table.myclass {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	
+}
+table.myclass th {
+	
+	padding: 8px;	
+	border-color: #a9c6c9;
+}
+table.myclass td {
+	
+	padding: 8px;
+	
+}
+.oddrowcolor{
+	background-color:#d4e3e5;
+}
+.evenrowcolor{
+	background-color:#c3dde0;
+}
+</style>
